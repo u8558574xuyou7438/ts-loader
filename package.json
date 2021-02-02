@@ -55,7 +55,7 @@
   "homepage": "https://github.com/TypeStrong/ts-loader",
   "dependencies": {
     "chalk": "^4.1.0",
-    "enhanced-resolve": "^4.0.0",
+    "enhanced-resolve": "^4.5.0",
     "loader-utils": "^2.0.0",
     "micromatch": "^4.0.0",
     "semver": "^7.3.4"
